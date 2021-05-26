@@ -1,4 +1,1 @@
-c/SDL2_image-2.0.5 linguist-vendored
-c/SDL2_mixer-2.0.4 linguist-vendored
-c/SDL2_ttf-2.0.15 linguist-vendored
-c/SDL2-2.0.14 linguist-vendored
+*.rb linguist-language=C
