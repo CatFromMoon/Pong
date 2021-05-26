@@ -1,0 +1,12 @@
+﻿  Ball.cpp
+C:\Users\Misha\Desktop\test_pr\Pong\Pong\SDL2_mixer-2.0.4\include\SDL_mixer.h(25,10): fatal error C1083: Не удается открыть файл включение: SDL_stdinc.h: No such file or directory,
+  Keys.cpp
+C:\Users\Misha\Desktop\test_pr\Pong\Pong\SDL2_image-2.0.5\include\SDL_image.h(27,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  LoadAndDelete.cpp
+C:\Users\Misha\Desktop\test_pr\Pong\Pong\SDL2_image-2.0.5\include\SDL_image.h(27,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  Main.cpp
+C:\Users\Misha\Desktop\test_pr\Pong\Pong\SDL2_image-2.0.5\include\SDL_image.h(27,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  RenderAndBot.cpp
+C:\Users\Misha\Desktop\test_pr\Pong\Pong\SDL2_image-2.0.5\include\SDL_image.h(27,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,
+  Run.cpp
+C:\Users\Misha\Desktop\test_pr\Pong\Pong\SDL2_image-2.0.5\include\SDL_image.h(27,10): fatal error C1083: Не удается открыть файл включение: SDL.h: No such file or directory,

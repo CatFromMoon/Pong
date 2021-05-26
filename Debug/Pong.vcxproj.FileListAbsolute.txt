@@ -1,0 +1,2 @@
+C:\Users\Misha\Desktop\Pong\Pong\Debug\Pong.exe
+C:\Users\Misha\Desktop\test_pr\Pong\Pong\Debug\Pong.exe
